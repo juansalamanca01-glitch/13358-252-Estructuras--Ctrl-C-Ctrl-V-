@@ -2,7 +2,7 @@
 
 public class Variable {
     public static void main(String[] args) {
-        // Valores de ejemplo (puedes cambiarlos)
+        
         double ladoCuadrado = 5;
         double baseRectangulo = 8;
         double alturaRectangulo = 4;
@@ -10,13 +10,13 @@ public class Variable {
         double baseTriangulo = 6;
         double alturaTriangulo = 5;
 
-        // Calcular áreas
+        
         double areaCuadrado = ladoCuadrado * ladoCuadrado;
         double areaRectangulo = baseRectangulo * alturaRectangulo;
         double areaCirculo = Math.PI * Math.pow(radioCirculo, 2);
         double areaTriangulo = (baseTriangulo * alturaTriangulo) / 2;
 
-        // Mostrar resultados
+        
         System.out.println("=== ÁREAS DE FIGURAS GEOMÉTRICAS ===");
         System.out.println("Área del cuadrado (lado " + ladoCuadrado + "): " + areaCuadrado);
         System.out.println("Área del rectángulo (" + baseRectangulo + " x " + alturaRectangulo + "): " + areaRectangulo);
