@@ -1,0 +1,9 @@
+Nombre: Juan Camilo Salamanca Mosquera 
+Edad:19
+Programa académico: Tecnología en desarrollo de software
+Semestre actual: 3
+Algo extraño que te gusta hacer: Tomar agua con limon, (sin azúcar) 
+Color favorito: Rojo 
+¿Tienes mascotas? (¿cuáles?): 1, Un perro que se llama Toby
+Intereses en el desarrollo de software (por ejemplo, desarrollo web, apps móviles, videojuegos, etc.):
+Desarrollo Web, App móviles 
